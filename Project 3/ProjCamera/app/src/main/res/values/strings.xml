@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjCamera</string>
+    <string name="capture">Capture</string>
+    <string name="yes">Yes</string>
+    <string name="todo">TODO</string>
+    <string name="upload">Upload</string>
+
+    <string-array name="Image_Category">
+        <item>Human</item>
+        <item>Animal</item>
+        <item>Landscape</item>
+        <item>Automobile</item>
+        <item>Food</item>
+        <item>Other</item>
+    </string-array>
+</resources>
